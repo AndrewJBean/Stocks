@@ -1,0 +1,1 @@
+As a means of protecting data integrity, all data is archived into this folder before proceeding with the data collection and updating of files.
