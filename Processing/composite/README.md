@@ -1,0 +1,1 @@
+Data is stored in this folder as double precision values. Each data point consists of a Unix timestamp, close price, high price, low price, open price, and stock unit volume. Hence, each dataset is a series of 6 values. Files are all binary.
