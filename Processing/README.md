@@ -1,7 +1,7 @@
-# Decription of files
+# Description of files
 
 ## aggregate.py
-This code can take composite data, in the form of double precision binary files with tuples (timestamp,close,high,low,open,volume) and generate cleaned data, aligned in time.
+This code can take composite data, in the form of double precision binary files with tuples (timestamp, close, high, low, open, volume) and generate cleaned data, aligned in time.
 
 This also can be used to generate time series of potentially informative features.
 
